@@ -3,7 +3,7 @@
 
 import os, pickle
 dic={}
-path="C:\\Users\\Matti\\txt_examples"
+path=".\\txt_examples"
 try:
     loadedModul=open(os.path.join(path, "pyDict"), 'rb')
     dic = pickle.load(loadedModul)
