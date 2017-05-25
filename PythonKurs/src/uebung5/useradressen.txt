@@ -1,2 +1,4 @@
-Max Müller,Neue Allee,Ulm 11111
-Werner Heinz,Apfelweg,Tambach-Dietzhard 22222
+Max Müller,Neue Allee 23,Ulm 11111
+Liza Anna Janosch,Alte Post 12,Ulm - Neurhein 11111
+Werner Heinz,Apfelweg 67,Tambach-Dietzhard 22222
+Ulrich Wagner,Am Fuchsloch 12a,Tambach-Dietzhard 22222
